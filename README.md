@@ -57,3 +57,15 @@ If you're also on a DSA journey, feel free to connect and grow together 🚀
 ---
 
 <p align="center">🔥 Built with consistency + discipline 🔥</p>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/karmagodjs/Daily-DSA/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/karmagodjs/Daily-DSA/tree/master/0001-two-sum) |
+<!---LeetCode Topics End-->
