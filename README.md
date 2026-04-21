@@ -64,6 +64,7 @@ If you're also on a DSA journey, feel free to connect and grow together 🚀
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/karmagodjs/Daily-DSA/tree/master/0001-two-sum) |
+| [0053-maximum-subarray](https://github.com/karmagodjs/Daily-DSA/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/karmagodjs/Daily-DSA/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/karmagodjs/Daily-DSA/tree/master/0169-majority-element) |
 ## Hash Table
@@ -83,9 +84,14 @@ If you're also on a DSA journey, feel free to connect and grow together 🚀
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/karmagodjs/Daily-DSA/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/karmagodjs/Daily-DSA/tree/master/0169-majority-element) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/karmagodjs/Daily-DSA/tree/master/0169-majority-element) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/karmagodjs/Daily-DSA/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
